@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for Notepad++" src="./screenshot1.png">
+  <img alt="Omni screnshoot for Notepad++" src="./screenshot.png">
 </p>
 
 ## Install

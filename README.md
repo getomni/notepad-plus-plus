@@ -32,7 +32,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/AllanCapistrano/notepad-plus-plus/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/notepad-plus-plus/graphs/contributors).
 
 | [![Allan Capistrano](https://github.com/AllanCapistrano.png?size=100)](https://github.com/AllanCapistrano) |
 | ---------------------------------------------------------------------------------------------------------- |

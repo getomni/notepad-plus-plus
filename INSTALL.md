@@ -5,12 +5,12 @@
 If you are a git user, you can install the theme by cloning the repo:
 
 ```powershell
-$ git clone https://github.com/AllanCapistrano/notepad-plus-plus.git
+$ git clone https://github.com/getomni/notepad-plus-plus.git
 ```
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/AllanCapistrano/notepad-plus-plus/archive/refs/heads/main.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/getomni/notepad-plus-plus/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
 

@@ -496,7 +496,7 @@
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="E1E1E6" bgColor="191622" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="E1E1E6" bgColor="988BC7" fontName="" fontStyle="1" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="E1E1E6" bgColor="E96379" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="41414D" fgColor="E1E1E6" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="191622" fgColor="E1E1E6" fontSize="" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="41414D" fgColor="E1E1E6" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="E1E1E6" bgColor="191622" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="E1E1E6" bgColor="191622" fontSize="" fontStyle="0" />
